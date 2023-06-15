@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111741906059",
+    "project_id": "fir-demo-8db5d",
+    "storage_bucket": "fir-demo-8db5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111741906059:android:b7c34cbf1b788602bcb88e",
+        "android_client_info": {
+          "package_name": "edu.skku.cs.finaleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111741906059-bo1sk84lcd3g0h76u0c7chg33mnkvt2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPvQrDwM55jqpypMBwU5YsgsX-lKaZLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111741906059-bo1sk84lcd3g0h76u0c7chg33mnkvt2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
